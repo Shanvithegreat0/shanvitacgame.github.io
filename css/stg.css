@@ -1,5 +1,6 @@
 h1{
- margin: auto;
+ margin-top: 50%;
+ margin-left:50%;
   font-family: Copperplate, Papyrus, fantasy;
   font-size:50px;
    align-items:center;
@@ -25,7 +26,8 @@ button{
   background:#ffe0bd;
   font-size:30px;
   padding:10px;
-  margin: auto;
+  margin-top:50%;
+ margin-left:50%;
   border-color: #00000;
   border-radius:25px;
   color: #00000;
@@ -34,8 +36,7 @@ button{
   transition: all 150ms ease-out-in;
 }
 button:hover{
-  align-items:center;
-  justify-content:center;
+  
   box-shadow: 0 0 10px 0 goldenrod inset, 0 0 10px 4px goldenrod;
 }
 
