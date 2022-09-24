@@ -1,5 +1,6 @@
 h1{
- margin-top: 50%;
+ display:flex;
+  margin-top: 50%;
  margin-left:50%;
 
   font-family: Copperplate, Papyrus, fantasy;
@@ -17,6 +18,7 @@ body{
 
 
 button{
+ display:flex;
  margin-left:50%;
   align-items:center;
   justify-content:center;
