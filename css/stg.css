@@ -1,8 +1,7 @@
 h1{
- margin-top: 50%;
- margin-left:50%;
- margin-bottom:50%;
- margin-right:50%
+ top: 50%;
+ left:50%;
+
   font-family: Copperplate, Papyrus, fantasy;
   font-size:50px;
    align-items:center;
