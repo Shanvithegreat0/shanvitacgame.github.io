@@ -1,5 +1,6 @@
 h1{
  display:flex;
+ place-items:center;
   margin-top: 50%;
  margin-left:50%;
 
@@ -18,7 +19,9 @@ body{
 
 
 button{
+ 
  display:flex;
+ place-items:center;
  margin-left:50%;
   align-items:center;
   justify-content:center;
