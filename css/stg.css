@@ -1,9 +1,7 @@
 h1{
  display:flex;
  place-items:center;
-  margin-top: 50%;
- margin-left:50%;
-
+ 
   font-family: Copperplate, Papyrus, fantasy;
   font-size:50px;
    align-items:center;
@@ -22,7 +20,7 @@ button{
  
  display:flex;
  place-items:center;
- margin-left:50%;
+
   align-items:center;
   justify-content:center;
   color:black;
